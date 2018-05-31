@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TitleScene.unity
+    guid: c730e50927918284795d74f6e8158a09
+  - enabled: 1
+    path: Assets/Scenes/MenuScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/ImageScene.unity
+    guid: ceba3605834a49249b4a419b1f248b64
+  - enabled: 1
+    path: Assets/Scenes/PassThePhone.unity
+    guid: 7e0312f25c195e24aa243865a63db381
+  - enabled: 1
+    path: Assets/Scenes/GuessScene.unity
+    guid: 4a14c90d35e0d5f4ca2bd6a3900e6e56
+  - enabled: 1
+    path: Assets/Scenes/TurnIntroScene.unity
+    guid: 5745fd231aa1c964caf7602750be90cc
+  - enabled: 1
+    path: Assets/Scenes/CurrentScoreScene.unity
+    guid: 2034c22675779724fae9188b2c556267
+  - enabled: 1
+    path: Assets/Scenes/TurnResultsScene.unity
+    guid: 3d7599abc11140345ad429976c74e38b
+  - enabled: 1
+    path: Assets/Scenes/GameOverScene.unity
+    guid: 8283f11aee78405438c2ec2b15b1c916
+  m_configObjects: {}
